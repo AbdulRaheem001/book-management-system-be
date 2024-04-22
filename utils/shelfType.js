@@ -1,0 +1,1 @@
+export const shelfType =['Plan to Read', 'Reading', 'Completed']
